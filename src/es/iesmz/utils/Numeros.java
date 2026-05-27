@@ -1,4 +1,4 @@
-package es.iesmz.models;
+package es.iesmz.utils;
 
 public class Numeros {
     public static int sonIguales(int a, int b, int c) {

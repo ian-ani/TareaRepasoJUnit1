@@ -1,6 +1,6 @@
 package es.iesmz.tests;
 
-import es.iesmz.models.Numeros;
+import es.iesmz.utils.Numeros;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.params.ParameterizedTest;
