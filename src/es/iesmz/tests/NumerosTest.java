@@ -1,6 +1,5 @@
 package es.iesmz.tests;
 
-
 import es.iesmz.models.Numeros;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
